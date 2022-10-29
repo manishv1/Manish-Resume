@@ -1,2 +1,4 @@
 he is working on Linux kernel ethernet driver development for their asic chiplet device. Bilal is maintaining the kernel driver, adding new features in the driver, optimizing, debugging, and working on different kernel and dpdk offloads in the device. 
-He is also working on the qemu and kvm hypervisors for VMS live migration and vdpa offload mechanisms and deals with the device emulation and virtio drivers. ### is working on intel and arm processor cores for virtualization and with the kernel internals like memory management unit, Inter-process, communications, scheduling, virtual file system etc and different kernel modules like char drivers, network drivers etc.
+He is also working on the qemu and kvm hypervisors for VMS live migration and vdpa offload mechanisms and deals with the device emulation and 
+virtio drivers. ### is working on intel and arm processor cores for virtualization and with the kernel internals like memory management unit, 
+Inter-process, communications, scheduling, virtual file system etc and different kernel modules like char drivers, network drivers etc.
