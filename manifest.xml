@@ -9,7 +9,7 @@
 <remote name="seL4" fetch="." />
 
 
-<default revision="master" remote="seL4" />
+<default revision="main" remote="seL4" />
 
 <project name="Manish-Resume.git" path="tools/seL4">
 
