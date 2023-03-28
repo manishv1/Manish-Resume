@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-     Copyright 2018, Data61, CSIRO
-     SPDX-License-Identifier: BSD-2-Clause
-	 https://github.com/manishv1
--->
-<manifest>
 
+<manifest>
 <remote name="seL4" fetch="." />
 <default revision="main" remote="seL4" />
 <project name="Manish-Resume.git" path="tools/seL4">
